@@ -65,8 +65,13 @@
 
 .backround {
     background: url(../IMGES/start-screen-gradient-background.svg)no-repeat center/cover;
+    height: 908px;
 }
 
+.start-screen{
+position: relative;
+top: 180px;
+}
 .start-screen .container {
     display: flex;
     align-items: center;
@@ -126,9 +131,7 @@
     background: #ffdec6
 }
 
-.start-screen-img {
-    margin-top: 1px;
-}
+
 
 .about {
     padding: 78px 0 100px 0;
