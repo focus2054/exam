@@ -64,7 +64,7 @@
 }
 
 .backround {
-    background: url(..//IMAGES/start-screen-gradient-background.svg)no-repeat center/cover;
+    background: url(..//IMGES/start-screen-gradient-background.svg)no-repeat center/cover;
 }
 
 .start-screen .container {
@@ -382,7 +382,7 @@
 
 .footer {
     padding-top: 40px;
-    background: url(..//IMAGES/footer-gradient-background.svg) no-repeat center/cover
+    background: url(..//IMGES/footer-gradient-background.svg) no-repeat center/cover
 }
 
 ;
@@ -487,4 +487,10 @@
     letter-spacing: 1px;
     color: rgba(241, 205, 179, 1);
     text-decoration: none;
+}
+.footer-img{
+    margin-left: 100px;
+}
+.footer-global-wrapper{
+    display: flex;
 }
